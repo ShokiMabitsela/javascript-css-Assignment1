@@ -15,7 +15,7 @@
   height: 3258px;
 }
 .section1{
-background-image: url("hero.png"); 
+  background-image: url("/hero.png");
   background-size:contain;
   background-repeat: no-repeat;
   background-position: fixed;
